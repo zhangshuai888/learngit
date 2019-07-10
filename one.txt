@@ -1,2 +1,2 @@
-﻿12313131313
-312313133131313
+﻿Git is a distributed version control system.
+Git is free software.
